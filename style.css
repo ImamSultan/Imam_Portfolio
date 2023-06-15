@@ -78,7 +78,8 @@ header {
     position: relative;
     border-radius: 10px;
     margin: 10px 25px 18px 0px;
-    box-shadow: 9px 9px 4px 0px gainsboro;
+    box-shadow: 9px 9px 4px 0px rgb(195, 187, 187);
+    background-color: rgb(250, 235, 238);
 
 }
 .main-card:hover{
